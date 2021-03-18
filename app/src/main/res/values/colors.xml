@@ -5,5 +5,5 @@
     <color name="colorAccent">#D81B60</color>
 
     <color name="colorSuccess">#fff</color>
-    <color name="backgroundSuccess">#00BCD4</color>
+    <color name="backgroundSuccess">#FFC107</color>
 </resources>
